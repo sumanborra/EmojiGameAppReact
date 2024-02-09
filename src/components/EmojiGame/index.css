@@ -1,0 +1,20 @@
+/* Write your code here. */
+.background-container {
+  background-image: linear-gradient(to right, #9796f0, #fbc7d4);
+  background-size: cover;
+  min-height: 100vh;
+}
+.list-container {
+  list-style-type: none;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.win-or-loss-container {
+  padding: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

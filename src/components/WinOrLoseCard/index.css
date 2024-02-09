@@ -1,0 +1,54 @@
+/* Write your code here. */
+.container-lose {
+  background-color: #ffffff33;
+  padding: 30px;
+  font-family: 'Roboto';
+  border: 2px solid #ffffff30;
+  border-radius: 16px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 60vh;
+}
+.lose-heading {
+  color: #ffffff;
+  font-size: 46px;
+  font-weight: 800;
+}
+.buttn {
+  background-color: #ffce27;
+  color: #3d3d3d;
+  font-family: 'Roboto';
+  padding: 5px;
+  cursor: pointer;
+  outline: none;
+  border-width: 0px;
+  border-radius: 14px;
+  width: 100px;
+  height: 40px;
+  font-weight: 600;
+  font-size: 16px;
+}
+.lose-card-text-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.para-lose-score {
+  font-family: 'Roboto';
+  font-size: 26px;
+  color: #ffffff;
+  font-weight: 600;
+}
+.image-lose-card {
+  height: 300px;
+  width: 400px;
+  margin-left: 80px;
+}
+.scoreed-para-description {
+  font-family: 'Roboto';
+  font-size: 56px;
+  font-weight: bold;
+  color: #6a59ff;
+}

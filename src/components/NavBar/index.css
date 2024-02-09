@@ -1,0 +1,44 @@
+/* Write your code here. */
+.nav-bar-container {
+  background-color: #ffffff33;
+  padding: 20px;
+  font-family: 'Roboto';
+  margin: 0px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.nav-image {
+  margin-right: 15px;
+}
+.para-description {
+  font-family: 'Roboto';
+  font-size: 24px;
+  color: #ffffff;
+  font-weight: 800;
+}
+.image-icon-container {
+  display: flex;
+  align-items: center;
+}
+.para-score {
+  font-family: 'Roboto';
+  font-size: 20px;
+  margin-right: 25px;
+  color: #ffffff;
+}
+.para-top-score {
+  font-family: 'Roboto';
+  font-size: 20px;
+  margin-right: 15px;
+  color: #ffffff;
+}
+.nav-bar-container-winorloss{
+  background-color: #ffffff33;
+  padding: 20px;
+  font-family: 'Roboto';
+  margin: 0px;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}

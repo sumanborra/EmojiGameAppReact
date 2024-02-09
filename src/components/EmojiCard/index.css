@@ -1,0 +1,18 @@
+/* Write your code here. */
+.list-item {
+  background-color: #ffffff33;
+  padding: 30px;
+  border: 2px solid #ffffff30;
+  border-radius: 16px;
+  margin: 10px;
+}
+.emoji-image {
+  height: 180px;
+  width: 180px;
+}
+.buttn-image {
+  background-color: transparent;
+  cursor: pointer;
+  outline: none;
+  border-width: 0px;
+}
